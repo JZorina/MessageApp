@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9d/aEiUVygxscPkdThgKse8oc7gUj4BdkOA6f9IYoRU=",
+  "Source": "MessageQueues",
+  "BasePath": "_content/MessageQueues",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
