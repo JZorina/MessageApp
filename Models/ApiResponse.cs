@@ -7,7 +7,6 @@
             StatusCode = _statusCode;
             Data = _data;
         }
-
         public int StatusCode { get; set; }
         public object Data { get; set; }
     }
